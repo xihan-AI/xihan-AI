@@ -33,9 +33,10 @@
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/codewithbernard/">
+  <a href="https://www.linkedin.com/in/mir-zehan-bin-ashraf/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    <a href="https://www.facebook.com/YOUR_PROFILE">
+ </a>
+    <a href="https://www.facebook.com/xihaniszehan/">
     <img src="https://img.shields.io/badge/Facebook-%234A90E2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://twitter.com/IsZjihan">
