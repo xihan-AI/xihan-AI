@@ -1,39 +1,42 @@
-## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+ A new student in Data Science, currently acquiring foundational knowledge in the fields of artificial intelligence and machine learning.
 
-**I love working with**
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</div>
+<!--
+ **I love working with**
+
+ <div display="flex">
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/SQL-%234F5B93.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</div> 
+
 
 ### 🔭 I’m working on
 
 - Projects for freelance clients.
 - Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
 
+-->
+
 ### 🌱 I’m learning
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-</div>
+ <div display="flex">
+<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B" alt="Python"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=%230F8C3C" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=%2305A1F3" alt="NumPy"/>
+</div> 
 
-### 🤔 I’m looking for help with
 
-- Integrating AI models to web applications
 
 ### 📫 How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/codewithbernard/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.facebook.com/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/Facebook-%234A90E2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://twitter.com/CodeWithBernard">
     <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
@@ -43,6 +46,3 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   </a>
 </div>
 
-### ⚡ Fun fact
-
-I'm definitely not a cat person.
