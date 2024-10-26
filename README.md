@@ -45,9 +45,5 @@
   </a>
   <a href="https://twitter.com/IsZjihan">
     <img src="https://img.shields.io/badge/IsZjihan-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
 </div>
 
