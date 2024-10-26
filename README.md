@@ -1,5 +1,5 @@
 
- A new student in Data Science, currently acquiring foundational knowledge in the fields of artificial intelligence and machine learning.
+ A student in Data Science, currently acquiring foundational knowledge in the fields of artificial intelligence and machine learning.
 
 
 <!--
