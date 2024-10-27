@@ -1,8 +1,6 @@
 
  A student in Data Science, currently acquiring foundational knowledge in the fields of Artificial Intelligence and Machine Learning.
- 
- ![alt text](hg.jpg)
- ![alt text](code.png)
+
 # 🛠️ Skills
 <div display="flex">
  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
