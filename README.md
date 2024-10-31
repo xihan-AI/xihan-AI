@@ -4,7 +4,8 @@
 # 🛠️ Skills
 <div display="flex">
  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
- <img src="https://img.shields.io/badge/SQL-%234F5B93.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<!-- <img src="https://img.shields.io/badge/SQL-%234F5B93.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/> 
+ 
  <img src="https://img.shields.io/badge/GitKraken-%23A7C6F2.svg?style=for-the-badge&logo=gitkraken&logoColor=black" alt="GitKraken"/>
 </div> 
 
