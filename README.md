@@ -1,5 +1,5 @@
 
- A student in Data Science, currently acquiring foundational knowledge in the fields of Artificial Intelligence and Machine Learning.
+
 ![alt text](dear.jpg)
 # 🛠️ Skills
 <div display="flex">
